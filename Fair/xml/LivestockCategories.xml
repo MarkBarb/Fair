@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+    <livestockcategorys>
+        <livestockcategory>
+            <id>Poultry</id>
+            <name>Water Fowl</name>
+            <displaypage>../fairCategories/FairCategory.php</displaypage>
+            <dialogpage>../fair/PoultryEntryDialog.php</dialogpage>
+           
+        </livestockcategory>
+        
+        <livestockcategory>
+            <id>Rabbits</id>
+            <name>Rabbits</name>
+            <displaypage>../fairCategories/FairCategory.php</displaypage>
+            <dialogpage>../fair/RabbitEntryDialog.php</dialogpage>
+           
+        </livestockcategory>
+        <livestockcategory>
+        	<id>Pigs</id>
+        	<dialogpage>../fairCategories/FairCategory.php</dialogpage>
+        	<displaypage>../fairCategories/FairCategory.php</displaypage>
+        	<name>Swine</name></livestockcategory>
+
+</livestockcategorys>

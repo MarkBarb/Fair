@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+    <exhibitors>
+        <exhibitor>
+            <id>1</id>
+            <accountid>1</accountid>
+            <firstname>John</firstname>
+            <lastname>Bradley</lastname>
+            <birthday>3/20/2002</birthday>
+        </exhibitor>
+        
+        <exhibitor>
+            <id>2</id>
+            <accountid>1</accountid>
+            <firstname>David</firstname>
+            <lastname>Bradley</lastname>
+            <birthday>4/20/2008</birthday>
+        </exhibitor>
+        <exhibitor>
+            <id>3</id>
+            <accountid>2</accountid>
+            <firstname>Jacob</firstname>
+            <lastname>Barb</lastname>
+            <birthday>10/28/1994</birthday>
+        </exhibitor>
+        <exhibitor>
+            <id>4</id>
+            <accountid>2</accountid>
+            <firstname>Clint</firstname>
+            <lastname>Barb</lastname>
+            <birthday>03/23/1997</birthday>
+        </exhibitor>
+        <exhibitor>
+            <id>5</id>
+            <accountid>2</accountid>
+            <firstname>Grace</firstname>
+            <lastname>Barb</lastname>
+            <birthday>09/30/1998</birthday>
+        </exhibitor>
+    </exhibitors>

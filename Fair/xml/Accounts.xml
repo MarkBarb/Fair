@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+    <accounts>
+        <account>
+            <id>1</id>
+            <email>kira_e_b@yahoo.com</email>
+            <firstname>Kira</firstname>
+            <lastname>Lower</lastname>
+            <phonenumber>(417) 327-3220</phonenumber>
+            <hashedpassword>abcdef</hashedpassword>
+            <exhibitorids>
+                <exhibitorid>1</exhibitorid>
+                <exhibitorid>2</exhibitorid>
+            </exhibitorids>
+        </account>
+        <account>
+            <id>2</id>
+            <email>mabarb@att.net</email>
+            <firstname>Mark</firstname>
+            <lastname>Barb</lastname>
+            <phonenumber>(316)619-6151</phonenumber>
+            <hashedpassword>xyz</hashedpassword>
+            <exhibitorids>
+                <exhibitorid>3</exhibitorid>
+                <exhibitorid>4</exhibitorid>
+                <exhibitorid>5</exhibitorid>
+            </exhibitorids>
+        </account>
+    </accounts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+    <entries>
+        <entry>
+            <id>1</id>
+            <exhibitorid>1</exhibitorid>
+            <livestockcategory>Poultry</livestockcategory>
+            <nickname>Handsome Jack</nickname>
+            <year>2017</year>
+        </entry>
+        
+        <entry>
+            <id>2</id>
+            <exhibitorid>1</exhibitorid>
+            <livestockcategory>Poultry</livestockcategory>
+            <nickname>Amercuana Girl</nickname>
+            <year>2017</year>
+        </entry>
+        <entry>
+            <id>3</id>
+            <exhibitorid>2</exhibitorid>
+            <livestockcategory>Poultry</livestockcategory>
+            <nickname>EggTooth</nickname>
+            <year>2017</year>
+        </entry>
+        <entry>
+            <id>4</id>
+            <exhibitorid>2</exhibitorid>
+            <livestockcategory>Poultry</livestockcategory>
+            <nickname>Buffy Orpington</nickname>
+            <year>2017</year>
+        </entry>
+        <entry>
+            <id>5</id>
+            <exhibitorid>2</exhibitorid>
+            <livestockcategory>Poultry</livestockcategory>
+            <nickname>Brahma Mama</nickname>
+            <year>2017</year>
+        </entry>
+    </entries>
